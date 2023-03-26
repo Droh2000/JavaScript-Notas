@@ -27,7 +27,7 @@ Realizar nuevos cambios en el proyecto
 Despues de hacer los cambios en nuestro proyecto:
 - git add .
 - git commit -m "El porque del cambio"
-- gut push (Como ya hicimos el -u origin, con solo el push va a subir todo)
+- git push (Como ya hicimos el -u origin, con solo el push va a subir todo)
 
 (Para ver en la rama en la que estamos trabajando: git branch)
 Jamas debemos trabajar en la MAIN ya que aqui se pone el codigo listo para produccion
